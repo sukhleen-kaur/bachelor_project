@@ -1,5 +1,5 @@
 # Using Machine Learning To Predict Decisions on EEG Data
-This repository consists of the data and code used by Sukhleen Kaur during her Bachelor Project. The aim of this project was to apply classify EEG data using machine learning techniques to determine whether decisions can be predicted or not.
+This repository consists of the data used and the code written by Sukhleen Kaur during her Bachelor Project. The aim of this project was to apply classify EEG data using machine learning techniques to determine whether decisions can be predicted or not.
 
 The coding was done in Python 3 using [Scikit-learn](https://scikit-learn.org/stable/) and is provided as a Jupyter Notebook.
 
