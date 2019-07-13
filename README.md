@@ -6,5 +6,5 @@ The coding was done in Python 3 using [Scikit-learn](https://scikit-learn.org/st
 This repository consists of 4 directories:
 * [**Data**](https://github.com/sukhleen-kaur/bachelor_project/tree/master/Data): contains EEG data of 15 participants in .mat files
 * [**Code**](https://github.com/sukhleen-kaur/bachelor_project/tree/master/Code): contains the codes for classifiers and data visualizations as .ipynb
-* [**CSV_Files(Outputs)**](https://github.com/sukhleen-kaur/bachelor_project/tree/master/CSV_Files(Outputs)): the CSV files which were retrieved through the coding for analysis
-* [**Images_and_Graphs**](https://github.com/sukhleen-kaur/bachelor_project/tree/master/Images_and_Graphs): images and graphs to visualize performance of the classifiers (ROC curves, confusion matrices, bar plots)
+* [**CSV_Files(Outputs)**](https://github.com/sukhleen-kaur/bachelor_project/tree/master/CSV_Files(Outputs)): contains the CSV files which were retrieved through the coding for analysis
+* [**Images_and_Graphs**](https://github.com/sukhleen-kaur/bachelor_project/tree/master/Images_and_Graphs): contains images and graphs to visualize performance of the classifiers (ROC curves, confusion matrices, bar plots)
